@@ -12,7 +12,7 @@ I'm a third-year university student from University of Adelaide <img src="https:
 
 - :seedling: Interested in Software and Website Developing.
 
-- :zap: In my free time, I read news, tech articles, as well as finding interesting project online to learn.
+- :zap: In my free time, I read news, tech articles, and research in online projects.
   
 - :motorcycle: Aside from that, I also read comics, and ride motorcycle to relax after a long day.
 
