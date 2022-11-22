@@ -14,7 +14,7 @@ I'm a third-year university student from University of Adelaide <img src="https:
 
 - :zap: In my free time, I read news, tech articles, and research in online projects.
   
-- :motorcycle: Aside from that, I also read comics, and ride motorcycle to relax after a long day.
+- :motorcycle: Aside from that, I like reading comics and riding motorcycle to relax after a long day.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xuan-thinh-le-134a85205/)
 ---
