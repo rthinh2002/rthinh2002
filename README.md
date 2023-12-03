@@ -7,7 +7,7 @@
   ---
 
 ### :man_technologist: About Me :
-I'm a third-year university student from University of Adelaide <img src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30">.
+I'm a Software Engineer / Full Stack Developer <img src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30">.
 - :telescope: I come from Vietnam and I'm fluent in both Vietnamese and English.
 
 - :seedling: Interested in Software and Website Developing.
