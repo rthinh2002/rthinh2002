@@ -6,7 +6,7 @@
 
   ---
 
-### :man_technologist: About Me :
+### About Me :
 I'm a Software Engineer / Full Stack Developer <img src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30">.
 - :telescope: I come from Vietnam and I'm fluent in both Vietnamese and English.
 
